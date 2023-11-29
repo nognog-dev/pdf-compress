@@ -1,0 +1,8 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all files in the 'compressed' directory
+compressed/
+
+# Ignore all files in the 'uploads' directory
+uploads/
